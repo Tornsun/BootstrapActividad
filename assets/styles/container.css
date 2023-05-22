@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.barraNavegacion{
+    background-color: rgb(72, 72, 97);
+    color: aliceblue;
+    border: 1px solid black;
+ }
+ 
+ .imagenes{
+    background-color: orangered;
+    border: 1px solid black;
+ }
+ 
+ 
+ .parrafos{
+    background-color: violet;
+    border: 1px solid black;
+ }
+ 
+ .footer{
+    background-color: green;
+    border: 1px solid black;
+ }
+ 
+ div{
+    padding: 5px;
+    border: 1px solid black;
+ }
